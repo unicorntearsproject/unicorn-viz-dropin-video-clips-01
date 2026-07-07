@@ -230,7 +230,8 @@ class VideoClips(BaseEffect):
 
     NAME = 'Video Clips'
     AUTHOR = 'unicorn-viz drop-in'
-    TAGS = ['media', 'videos', 'slideshow']
+    TAGS = ['media', 'videos', 'slideshow',
+            'chill', 'groovy', 'energetic', 'intense', 'hard']
 
     def _init(self) -> None:
         self.parameters = {
