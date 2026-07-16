@@ -1,5 +1,8 @@
 # video-clips-01 — Video Clips
 
+**Version 0.5.0**
+
+
 An audio-**reactive** video-clip montage drop-in for
 [unicorn-viz](https://github.com/iDoMeteor/unicorn-viz). Formerly "Video
 Showcase".
@@ -60,3 +63,7 @@ None dedicated. Standard `+`/`-` adjust `speed`.
 ## Tags
 
 `media` · `videos` · `slideshow`
+
+## Changelog
+
+- **0.5.0** — initial versioned release.

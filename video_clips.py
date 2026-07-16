@@ -28,6 +28,8 @@ memory stays bounded.
 """
 from __future__ import annotations
 
+__version__ = '0.5.0'
+
 import logging
 from pathlib import Path
 from typing import NamedTuple
